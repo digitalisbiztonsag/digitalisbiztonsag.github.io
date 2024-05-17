@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> Table-top exercises (TTX) |  Digitális Biztonság</title>
+    
+    <link rel="stylesheet" href="/scss/style.min.css">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    
+<header id="header" class="grid justify-between">
+  <h1 class="home-title home-title--header"><a href="/">Digitális Biztonság</a></h1>
+  <nav id="header-nav">
+    <div class="nav-buttons-desktop">
+      <ul id="header-menu">
+  <li class="header-menu-item-li"><a class="header-menu-item" href="/anyagok">Tartalom</li></a>
+  <li class="header-menu-item-li"><a class="header-menu-item" href="/rolunk">Rólunk</li></a>
+</ul>
+
+    </div>
+    <details id="mobile-menu">
+      <summary id="mobile-menu-icon"><img src="https://biz.magor.dev/images/menu.svg" /></summary>
+      <div id="mobile-mainnav">
+        <ul id="header-menu">
+  <li class="header-menu-item-li"><a class="header-menu-item" href="/anyagok">Tartalom</li></a>
+  <li class="header-menu-item-li"><a class="header-menu-item" href="/rolunk">Rólunk</li></a>
+</ul>
+
+        
+
+<nav class="nav-main">
+  <div id="nav-title-container">
+  
+    
+      
+        <details><summary class="nav-title">Jelszavak, jelszókezelés</summary>
+      
+        <section class="nav-pages-section">
+          
+            
+              <a class="nav-pages-link" href="/anyagok/jelszavak-jelszokezelok/jelszavak/">Jelszavak</a>
+            
+          
+            
+              <a class="nav-pages-link" href="/anyagok/jelszavak-jelszokezelok/ketfaktoros-hitelesites-2fa/">Kétfaktoros hitelesítés (2FA)</a>
+            
+          
+      </section>
+  </details>
+    
+      
+        <details><summary class="nav-title">Biztonságos kommunikáció</summary>
+      
+        <section class="nav-pages-section">
+          
+            
+              <a class="nav-pages-link" href="/biztonsagos-uzenetkuldo-alkalmazasok/">Biztonságos üzenetküldő alkalmazások</a>
+            
+          
+            
+              <a class="nav-pages-link" href="/anyagok/biztonsagos_kommunikacio/titkositas/">Titkositas</a>
+            
+          
+            
+              <a class="nav-pages-link" href="/anyagok/biztonsagos_kommunikacio/vpn/">Vpn</a>
+            
+          
+            
+              <a class="nav-pages-link" href="/anyagok/biztonsagos_kommunikacio/metadata/">Metaadatok</a>
+            
+          
+      </section>
+  </details>
+    
+      
+        <details><summary class="nav-title">Hétköznapi támadások</summary>
+      
+        <section class="nav-pages-section">
+          
+            
+              <a class="nav-pages-link" href="/anyagok/hetkoznapi_tamadasok/adathalaszat/">Phishing (adathalászat)</a>
+            
+          
+      </section>
+  </details>
+    
+      
+        <details open><summary class="nav-title nav-title--active">Table-top exercises (TTX)</summary>
+      
+        <section class="nav-pages-section">
+          
+            
+              <a class="nav-pages-link" href="/anyagok/ttx/elvesztett-eszkoz/">Elvesztett eszköz</a>
+            
+          
+            
+              <a class="nav-pages-link" href="/anyagok/ttx/szervezeti-biztonsag/">Szervezeti biztonság</a>
+            
+          
+            
+              <a class="nav-pages-link" href="/anyagok/ttx/zaklatas-es-doxxolas/">Zaklatás és Doxxolás</a>
+            
+          
+            
+              <a class="nav-pages-link" href="/hatosagok-a-szerkesztosegben/">Hatoságok behatolnak a szerkesztőségbe</a>
+            
+          
+            
+              <a class="nav-pages-link nav-pages-link--active" href="/hatosagok-ujsagiro-otthonaban/">Hatóságok behatolnak egy újságíró lakásába</a>
+            
+          
+      </section>
+  </details>
+    
+      
+        <details><summary class="nav-title">Egyéb hasznos források</summary>
+      
+        <section class="nav-pages-section">
+          
+            
+              <a class="nav-pages-link" href="/anyagok/forrasok/fogalmak/">Szószedet, fogalommagyarázat</a>
+            
+          
+            
+              <a class="nav-pages-link" href="/anyagok/forrasok/linkek/">Külső hivatkozások</a>
+            
+          
+      </section>
+  </details>
+    
+  
+  </div>
+  <div id="nav-overlay"></div>
+</nav>
+
+      </div>
+    </details>
+  </nav>
+</header>
+
+    
+
+<main class="main-content">
+  
+    <div id="desktop-mainnav">
+      
+
+<nav class="nav-main">
+  <div id="nav-title-container">
+  
+    
+      
+        <details><summary class="nav-title">Jelszavak, jelszókezelés</summary>
+      
+        <section class="nav-pages-section">
+          
+            
+              <a class="nav-pages-link" href="/anyagok/jelszavak-jelszokezelok/jelszavak/">Jelszavak</a>
+            
+          
+            
+              <a class="nav-pages-link" href="/anyagok/jelszavak-jelszokezelok/ketfaktoros-hitelesites-2fa/">Kétfaktoros hitelesítés (2FA)</a>
+            
+          
+      </section>
+  </details>
+    
+      
+        <details><summary class="nav-title">Biztonságos kommunikáció</summary>
+      
+        <section class="nav-pages-section">
+          
+            
+              <a class="nav-pages-link" href="/biztonsagos-uzenetkuldo-alkalmazasok/">Biztonságos üzenetküldő alkalmazások</a>
+            
+          
+            
+              <a class="nav-pages-link" href="/anyagok/biztonsagos_kommunikacio/titkositas/">Titkositas</a>
+            
+          
+            
+              <a class="nav-pages-link" href="/anyagok/biztonsagos_kommunikacio/vpn/">Vpn</a>
+            
+          
+            
+              <a class="nav-pages-link" href="/anyagok/biztonsagos_kommunikacio/metadata/">Metaadatok</a>
+            
+          
+      </section>
+  </details>
+    
+      
+        <details><summary class="nav-title">Hétköznapi támadások</summary>
+      
+        <section class="nav-pages-section">
+          
+            
+              <a class="nav-pages-link" href="/anyagok/hetkoznapi_tamadasok/adathalaszat/">Phishing (adathalászat)</a>
+            
+          
+      </section>
+  </details>
+    
+      
+        <details open><summary class="nav-title nav-title--active">Table-top exercises (TTX)</summary>
+      
+        <section class="nav-pages-section">
+          
+            
+              <a class="nav-pages-link" href="/anyagok/ttx/elvesztett-eszkoz/">Elvesztett eszköz</a>
+            
+          
+            
+              <a class="nav-pages-link" href="/anyagok/ttx/szervezeti-biztonsag/">Szervezeti biztonság</a>
+            
+          
+            
+              <a class="nav-pages-link" href="/anyagok/ttx/zaklatas-es-doxxolas/">Zaklatás és Doxxolás</a>
+            
+          
+            
+              <a class="nav-pages-link" href="/hatosagok-a-szerkesztosegben/">Hatoságok behatolnak a szerkesztőségbe</a>
+            
+          
+            
+              <a class="nav-pages-link nav-pages-link--active" href="/hatosagok-ujsagiro-otthonaban/">Hatóságok behatolnak egy újságíró lakásába</a>
+            
+          
+      </section>
+  </details>
+    
+      
+        <details><summary class="nav-title">Egyéb hasznos források</summary>
+      
+        <section class="nav-pages-section">
+          
+            
+              <a class="nav-pages-link" href="/anyagok/forrasok/fogalmak/">Szószedet, fogalommagyarázat</a>
+            
+          
+            
+              <a class="nav-pages-link" href="/anyagok/forrasok/linkek/">Külső hivatkozások</a>
+            
+          
+      </section>
+  </details>
+    
+  
+  </div>
+  <div id="nav-overlay"></div>
+</nav>
+
+    </div>
+  
+  <article class="article-main">
+    
+    <div id="internews">
+      <img id="internews-logo" src="/images/internews-logo.png" alt="Internews logo" />
+      <p class="jsf">Journalist Security Fellowship</p>
+    </div>
+    
+    <h1>Hatóságok behatolnak egy újságíró lakásába</h1>
+    <h2 id="cél">Cél</h2>
+<p>Az újságíróknak elméleti és technikai ismereteket nyújtani ahhoz, hogy a lehető legjobb digitális biztonságot érhessék el otthoni környezetükben.</p>
+<h2 id="tanulási-célok">Tanulási célok</h2>
+<ul>
+<li>Az otthoni digitális eszközök védelmének megértése</li>
+<li>Papír jegyzetfüzetekkel kapcsolatos biztonsági intézkedések alkalmazása</li>
+<li>A fájlok távoli törlésének kezdeményezése, valamint az ezzel kapcsolatos pozitívumok és negatívumok.</li>
+<li>A veszélyeztetett információkhoz való hozzáférés korlátozása.</li>
+<li>Felkészülés a hatóságok újságíró otthonába való behatolására.</li>
+<li>Rávenni a résztvevőket, hogy gondolkozzanak közösen a szervezeti és közösségi biztonságról. Különös figyelmet szentelve a szerkesztőkkel, a menedzserekkel, ügyvédekkel folytatott munkára stresszes helyzetekben. Illetve határozzák meg, hogy mely kérdéseknél és problémáknáll kiket vonjanak be az egyes folyamatokba.</li>
+</ul>
+<h2 id="a-készségek-amelyeket-meg-kell-tanítani-a-ttx-előtt-vagy-után">A készségek, amelyeket meg kell tanítani a TTX előtt vagy után</h2>
+<ul>
+<li>Egy olyan eszköz használatának az ismerete, amivel titkosítani lehet az adatokat hard drive-on, és külső meghajtókon. Például a VeraCrypt, vagy egy hozzá hasonló alkalmazás.</li>
+<li>Threat modelling, azaz veszélyeztetettségi modell felépítése, és annak módja. Különösen arra kiterjedően, hogy hogy kell bánni a hatóságokkal, illetve mi a teendő egy házkutatás során. Hogyan kell felkészülni a kockázatokra, hogyan kell kezelni azokat, és mit kell utána tenni, ha bekövetkeznek.</li>
+<li>Megtanítani az olyan eszközök használatát és bekapcsolását mint az Apple Find my…, vagy a Samsung find my&hellip;, amelyek az adathordozók távoli zárolását és törlését is lehetővé teszik.</li>
+<li>A Microsoft Office-ban és a Google Drive-ban azoknak a beállításoknak a megtanulása, amelyekkel látható, hogy mely fájlokhoz fértek hozzá az utóbbi időkben, és mikor.</li>
+<li>(Haladó) Hogyha a szervezetnek van hozzáférése prémium Google Drive vagy O365 előfizetésen keresztül a logokhoz (naplófájlokhoz), a logokkal való munka és a logok elérése.</li>
+<li>Átnézni a keresési és fájl elérési előzményeket a népszerű webböngészőkben és az operációs rendszerekben.</li>
+</ul>
+<h2 id="forgatókönyv">Forgatókönyv</h2>
+<p>Az 5 hónappal ezelőtti országos választásokat követően a hatalmon lévő új kormány elkezdte utasítani a hatóságokat a sajtószabadság korlátozására, és a hatóságok házkutatást tartottak három neves újságíró otthonában a fővárosban. Erre válaszul Sára és néhány kollégája összeült, hogy megvitassák, hogyan védhetik meg magukat és az információikat, ha hasonló helyzettel kellene szembenézniük.</p>
+<h2 id="k1---mi-az-a-néhány-dolog-amit-egy-újságírónak-figyelembe-kell-vennie-amikor-úgy-dönt-hogy-otthonában-tárolja-az-információkat">K1 - Mi az a néhány dolog, amit egy újságírónak figyelembe kell vennie, amikor úgy dönt, hogy otthonában tárolja az információkat?</h2>
+<ul>
+<li>Tárolja az eszközöket biztonságos helyen az otthonában</li>
+<li>Titkosítsa és lássa el jelszóvédelemmel minden eszközét.</li>
+<li>A dokumentumok ne tartalmazzanak szenzitív, érzékeny adatokat, például neveket.</li>
+<li>Vezessen leltárt arról, hogy az egyes információkat hol tárolja (de ezt is tartsa biztonságban).</li>
+<li>A nem digitális információk esetén figyeljen a fizikai másolatokra.</li>
+<li>Mindezek mellett lehetőleg semmilyen érzékeny vagy fontos dokumentumot ne tartson az otthonában az újságíró.</li>
+<li>Tartsa be a helyi törvényeket és a szervezeti irányelveket.</li>
+<li>Legyen tisztában azzal, hogy milyen jogi következményei lehetnek annak, ha az érzékeny adatokat az irodája helyett az otthonában tárolja.</li>
+<li>Gondolja végig, kinek van hozzáférése az otthonához és az eszközeihez?</li>
+</ul>
+<h2 id="k2-opcionális---mi-a-legjobb-gyakorlat-a-papír-jegyzetek-otthoni-tárolására">K2 (opcionális) - Mi a legjobb gyakorlat a papír jegyzetek otthoni tárolására?</h2>
+<ul>
+<li>Fontolja meg azoknak a papíroknak a megsemmisítését, amikre már nincs szüksége.</li>
+<li>Ne tartsa az összes jegyzetet egy helyen - kevesebb információhoz lehet így könnyen hozzáférni.</li>
+<li>Rejtse el a jegyzetfüzeteket</li>
+<li>Széf, zár és kulcs, hogy mindent  biztonságban tartson!</li>
+<li>Gondolja végig, milyen szintű érzékeny információkat érdemes otthon tartani?</li>
+<li>Használjon rövidítéseket, álneveket, gyorsírást - olyan dolgokat, amelyeknek csak az ön számára van értelme.</li>
+</ul>
+<h2 id="k3---milyen-intézkedéseket-lehet-tenni-az-elektronikus-eszközök-számítógépek-merevlemezek-usb-stickek-stb-lehető-legjobb-védelme-érdekében">K3 - Milyen intézkedéseket lehet tenni az elektronikus eszközök (számítógépek, merevlemezek, USB-stickek stb.) lehető legjobb védelme érdekében?</h2>
+<ul>
+<li>Titkosítás</li>
+<li>Jelszóvédelem</li>
+<li>Az adatok külső helyszínre történő biztonsági mentése</li>
+<li>Memóriakártyák - nehéz biztonságosan törölni. Talán meg kellene semmisíteni őket</li>
+<li>A régebbi, különösen a már nem használt eszközök biztonságának mérlegelése.</li>
+</ul>
+<p>Ma reggel 9 órakor Sára elindult otthonról, hogy igyon egy kávét és bevásároljon. Amikor egy órával később visszatért, a lakása ajtaja nyitva volt. Sára a lakásába lépve két férfit talált, akik az íróasztalát és a hálószobáját kutatták át. Az egyik férfi Sára jegyzetfüzeteit olvasgatta, míg a másik egy táskát tartott a kezében, amelyben Sára laptopja volt. Sára látta, hogy az íróasztalán lévő USB-kulcsok és külső merevlemezek hiányoznak. A két férfi civil ruhát visel, de Sára feltételezi, hogy valamilyen módon a kormánynak dolgoznak.</p>
+<h2 id="1-lehetőség---sára-röviden-beszél-a-két-férfival-és-biztonságban-el-tudja-hagyni-az-otthonát-elsétál-egy-közeli-barátjához">1. lehetőség - Sára röviden beszél a két férfival, és biztonságban el tudja hagyni az otthonát. Elsétál egy közeli barátjához.</h2>
+<h2 id="k4-választható---annak-tudatában-hogy-néhány-információja-különösen-a-jegyzetfüzetéből-származó-információi-veszélybe-kerültek-kit-kellene-sárának-tájékoztatnia-erről-az-esetről">K4 (választható) - Annak tudatában, hogy néhány információja, különösen a jegyzetfüzetéből származó információi veszélybe kerültek, kit kellene Sárának tájékoztatnia erről az esetről?</h2>
+<ul>
+<li>Értesítse a szerkesztőjét és a szerkesztőség ügyvédeit.</li>
+<li>Mielőtt értesítené a forrását, amely benne lehetett a jegyzetfüzetében, először beszéljen a szerkesztőjével és a szerkesztőséggel, illetve biztonsági szakemberekkel. (Ha csak álnéven szerepelt a forrás, de másnap felhívom, elvezethetem hozzá a nyomozókat és ezzel felfedhetem a kilétét.) Ezért álnév esetében lehet hogy nem érdemes rögtön szólni neki.</li>
+</ul>
+<h2 id="k5---mit-tehetne-sára-hogy-megelőzze-a-digitális-információihoz-való-hozzáférést-amíg-a-két-férfi-még-a-lakásában-tartózkodik">K5 - Mit tehetne Sára, hogy megelőzze a digitális információihoz való hozzáférést, amíg a két férfi még a lakásában tartózkodik?</h2>
+<ul>
+<li>Tegyen meg mindent a helyi törvények betartása érdekében</li>
+<li>Ragaszkodjon ahhoz, hogy a hatóságok is kövessék a helyi törvényeket (pl. Filmfelvétel készítés engedélyezése, tanú, stb.)</li>
+<li>De-eszkalációs technikák</li>
+<li>Tudja meg, hogy kik ők, és van-e megbízatásuk, felhatalmazásuk eljárni, és az mire vonatkozik.</li>
+<li>Értékelje a helyzetet a saját személyes biztonsága szempontjából</li>
+<li>Kérjen jogi tanácsot, hívja fel a szerkesztőséget</li>
+<li>Hamis beszámolók és dokumentumok bemutatása ( előkészületet igényel).</li>
+<li>Elterelés</li>
+</ul>
+<h2 id="2-lehetőség---sára-nem-tudja-elhagyni-a-lakását-a-két-férfi-megkéri-hogy-foglaljon-helyet-és-követelik-hogy-adja-meg-a-számítógépének-és-az-usb-stickjeinek-jelszavait-megfenyegetik-hogy-ha-nem-adja-meg-ezeket-az-információkat-akkor-a-rendőrségre-viszik-sára-házkutatási-parancsot-kér-de-ők-ezt-megtagadják">2. lehetőség - Sára nem tudja elhagyni a lakását. A két férfi megkéri, hogy foglaljon helyet és követelik, hogy adja meg a számítógépének és az USB-stickjeinek jelszavait. Megfenyegetik, hogy ha nem adja meg ezeket az információkat, akkor a rendőrségre viszik. Sára házkutatási parancsot kér, de ők ezt megtagadják.</h2>
+<h2 id="k6---milyen-lehetőségei-vannak-sárának-ebben-a-helyzetben-ha-tudja-hogy-bizalmas-információkat-tárol-a-számítógépén-beleértve-a-titkos-források-személyazonosságát">K6 - Milyen lehetőségei vannak Sárának ebben a helyzetben, ha tudja, hogy bizalmas információkat tárol a számítógépén, beleértve a titkos források személyazonosságát?</h2>
+<ul>
+<li>A sebezhetőségek felmérése és a legfontosabb kérdések előre sorolása.</li>
+<li>Távoli kijelentkezés és az érzékeny fiókok távoli törlése</li>
+<li>Az otthon tárolt összes információ azonosítása</li>
+<li>Mérlegelje a csapattagok és a veszélyben lévő források tájékoztatásának pozitív és negatív hatásait. Esetleg a szerkesztőség támogatásával hozza meg ezt a döntést.</li>
+<li>A fájlok távoli törlésének lehetőségei</li>
+</ul>
+<h2 id="k7---sára-egy-távoli-fájltörlő-programot-állított-be-a-számítógépén-mit-kell-figyelembe-vennie-mielőtt-törli-a-számítógépes-fájljait">K7 - Sára egy távoli fájltörlő programot állított be a számítógépén. Mit kell figyelembe vennie, mielőtt törli a számítógépes fájljait?</h2>
+<ul>
+<li>Jogi problémája lehet - az igazságszolgáltatás akadályozása, vagy bizonyíték megsemmisítése miatt.</li>
+<li>Gondolja végig a lehetséges következményeket. Ha lehetséges, előbb konzultáljon egy ügyvéddel.</li>
+<li>Ha Sárának nincs bizonyítéka arra, hogy a “vendégei” rendőrök, és inkább gazfickóknak tűnnek, akkor ez a helyzet teljesen megváltoztatja a jogi és veszélyeztetettségi helyzetét a házkutatás során.</li>
+</ul>
+<h2 id="k8-opcionális---tudva-hogy-néhány-adatát-veszélybe-sodorták-kit-kellene-sárának-tájékoztatnia-erről-az-incidensről-fontos-hogy-milyen-sorrendben-tájékoztatja-az-embereket">K8 (opcionális) - Tudva, hogy néhány adatát veszélybe sodorták, kit kellene Sárának tájékoztatnia erről az incidensről? Fontos, hogy milyen sorrendben tájékoztatja az embereket?</h2>
+<ul>
+<li>A főszerkesztőt</li>
+<li>A szerkesztőség biztonsági/IT csapatát</li>
+<li>A szerkesztőség jogi csapatát</li>
+<li>Fontolja meg a forrásokkal való kapcsolatfelvételt</li>
+<li>Ha szabadúszó újságíró, fontolja meg a helyzet megosztását más szabadúszókkal.</li>
+</ul>
+<p>Sára végül nem hajlandó megadni az eszközeihez tartozó jelszót. Miután még további 10 percig kutatták a lakását, a két férfi távozik Sára számítógépével, USB-kulcsaival és a jegyzetfüzetével.</p>
+<p>Sára most már újra hozzáfér a lakásához. Látja, hogy a két számítógépe közül az egyiket és az egyik USB-kulcsát hátrahagyták, azonban az összes jegyzetét és jegyzetfüzetét elvitték a lakásból.</p>
+<h2 id="k9---mit-kell-most-tennie-sárának-hogy-az-információi-és-a-biztonsága-ne-kerüljön-további-veszélybe-a-két-férfi-tevékenysége-miatt-amíg-a-lakásában-tartózkodtak">K9 - Mit kell most tennie Sárának, hogy az információi és a biztonsága ne kerüljön további veszélybe a két férfi tevékenysége miatt, amíg a lakásában tartózkodtak?</h2>
+<ul>
+<li>A férfiak lehet, hogy malware-t, azaz rosszindulatú szoftvert telepítettek az eszközeire. Ezért érdemes az eszközeit egy digitális kriminalisztika szakértővel átvizsgáltatnia, mielőtt újra használja azokat. Lehetséges az is, hogy keyloggert tettek az eszközeire - amivel megszerezhetik a jelszavait.</li>
+<li>Figyelembe kell vennie, hogy a lakást lehallgathatják</li>
+<li>Kérdezze meg a szerkesztőségét vagy a szervezetet, akihez tartozik, hogy milyen segítséget és támogatást tudnak neki adni ebben a helyzetben.</li>
+<li>Beszéljen a szerkesztőségével vagy a civil szervezettel, akihez tartozik, a jogi és biztonsági szakértőkkel, hogy érdemes-e a nyilvánosság előtt, a közösségi csatornákon beszélni arról, hogy mi történt, vagy nem. (Ezt előre  érdemes eldönteni, jogászok és biztonsági szakemberek bevonásával, hogy ilyenkor mi a szerkesztőség állaspontja, hogy például élőben közvetítik-e Facebookon vagy Youtube-on, hogy mi történik.)</li>
+</ul>
+<h2 id="k10---a-forgatókönyv-digitális-biztonsági-szempontjain-kívül-milyen-egyéb-óvintézkedéseket-és-válaszlépéseket-tehetett-volna-sára-annak-érdekében-hogy-biztonságban-tartsa-magát-és-az-információit">K10 - A forgatókönyv digitális biztonsági szempontjain kívül milyen egyéb óvintézkedéseket és válaszlépéseket tehetett volna Sára annak érdekében, hogy biztonságban tartsa magát és az információit?</h2>
+<ul>
+<li>Olvasson és kérdezzen utána, hogy működnek az országban, ahol van, a biztonsági erők, vannak-e olyan, nem a rendvédelmi erőkhöz tartozó csoportok, amelyek megpróbálják megfélemlíteni az újságírókat, és kik azok.</li>
+<li>Készüljön fel ügyvédekkel és a szerkesztőkkel arra, hogy mi a legjobb reakció és cselekedet egy az újságíró otthonába, vagy a szerkesztőségbe való behatolás, házkutatás során.</li>
+<li>Semmilyen szenzitív, érzékeny információt ne tároljon otthon. Akkor pedig különösen ne, ha esély van egy házkutatás bekövetkeztére.</li>
+</ul>
+
+  </article>
+  <aside>
+    <section id="toc">
+      <h4 id="toc-title">Tartalomjegyzék</h4>
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#cél">Cél</a></li>
+    <li><a href="#tanulási-célok">Tanulási célok</a></li>
+    <li><a href="#a-készségek-amelyeket-meg-kell-tanítani-a-ttx-előtt-vagy-után">A készségek, amelyeket meg kell tanítani a TTX előtt vagy után</a></li>
+    <li><a href="#forgatókönyv">Forgatókönyv</a></li>
+    <li><a href="#k1---mi-az-a-néhány-dolog-amit-egy-újságírónak-figyelembe-kell-vennie-amikor-úgy-dönt-hogy-otthonában-tárolja-az-információkat">K1 - Mi az a néhány dolog, amit egy újságírónak figyelembe kell vennie, amikor úgy dönt, hogy otthonában tárolja az információkat?</a></li>
+    <li><a href="#k2-opcionális---mi-a-legjobb-gyakorlat-a-papír-jegyzetek-otthoni-tárolására">K2 (opcionális) - Mi a legjobb gyakorlat a papír jegyzetek otthoni tárolására?</a></li>
+    <li><a href="#k3---milyen-intézkedéseket-lehet-tenni-az-elektronikus-eszközök-számítógépek-merevlemezek-usb-stickek-stb-lehető-legjobb-védelme-érdekében">K3 - Milyen intézkedéseket lehet tenni az elektronikus eszközök (számítógépek, merevlemezek, USB-stickek stb.) lehető legjobb védelme érdekében?</a></li>
+    <li><a href="#1-lehetőség---sára-röviden-beszél-a-két-férfival-és-biztonságban-el-tudja-hagyni-az-otthonát-elsétál-egy-közeli-barátjához">1. lehetőség - Sára röviden beszél a két férfival, és biztonságban el tudja hagyni az otthonát. Elsétál egy közeli barátjához.</a></li>
+    <li><a href="#k4-választható---annak-tudatában-hogy-néhány-információja-különösen-a-jegyzetfüzetéből-származó-információi-veszélybe-kerültek-kit-kellene-sárának-tájékoztatnia-erről-az-esetről">K4 (választható) - Annak tudatában, hogy néhány információja, különösen a jegyzetfüzetéből származó információi veszélybe kerültek, kit kellene Sárának tájékoztatnia erről az esetről?</a></li>
+    <li><a href="#k5---mit-tehetne-sára-hogy-megelőzze-a-digitális-információihoz-való-hozzáférést-amíg-a-két-férfi-még-a-lakásában-tartózkodik">K5 - Mit tehetne Sára, hogy megelőzze a digitális információihoz való hozzáférést, amíg a két férfi még a lakásában tartózkodik?</a></li>
+    <li><a href="#2-lehetőség---sára-nem-tudja-elhagyni-a-lakását-a-két-férfi-megkéri-hogy-foglaljon-helyet-és-követelik-hogy-adja-meg-a-számítógépének-és-az-usb-stickjeinek-jelszavait-megfenyegetik-hogy-ha-nem-adja-meg-ezeket-az-információkat-akkor-a-rendőrségre-viszik-sára-házkutatási-parancsot-kér-de-ők-ezt-megtagadják">2. lehetőség - Sára nem tudja elhagyni a lakását. A két férfi megkéri, hogy foglaljon helyet és követelik, hogy adja meg a számítógépének és az USB-stickjeinek jelszavait. Megfenyegetik, hogy ha nem adja meg ezeket az információkat, akkor a rendőrségre viszik. Sára házkutatási parancsot kér, de ők ezt megtagadják.</a></li>
+    <li><a href="#k6---milyen-lehetőségei-vannak-sárának-ebben-a-helyzetben-ha-tudja-hogy-bizalmas-információkat-tárol-a-számítógépén-beleértve-a-titkos-források-személyazonosságát">K6 - Milyen lehetőségei vannak Sárának ebben a helyzetben, ha tudja, hogy bizalmas információkat tárol a számítógépén, beleértve a titkos források személyazonosságát?</a></li>
+    <li><a href="#k7---sára-egy-távoli-fájltörlő-programot-állított-be-a-számítógépén-mit-kell-figyelembe-vennie-mielőtt-törli-a-számítógépes-fájljait">K7 - Sára egy távoli fájltörlő programot állított be a számítógépén. Mit kell figyelembe vennie, mielőtt törli a számítógépes fájljait?</a></li>
+    <li><a href="#k8-opcionális---tudva-hogy-néhány-adatát-veszélybe-sodorták-kit-kellene-sárának-tájékoztatnia-erről-az-incidensről-fontos-hogy-milyen-sorrendben-tájékoztatja-az-embereket">K8 (opcionális) - Tudva, hogy néhány adatát veszélybe sodorták, kit kellene Sárának tájékoztatnia erről az incidensről? Fontos, hogy milyen sorrendben tájékoztatja az embereket?</a></li>
+    <li><a href="#k9---mit-kell-most-tennie-sárának-hogy-az-információi-és-a-biztonsága-ne-kerüljön-további-veszélybe-a-két-férfi-tevékenysége-miatt-amíg-a-lakásában-tartózkodtak">K9 - Mit kell most tennie Sárának, hogy az információi és a biztonsága ne kerüljön további veszélybe a két férfi tevékenysége miatt, amíg a lakásában tartózkodtak?</a></li>
+    <li><a href="#k10---a-forgatókönyv-digitális-biztonsági-szempontjain-kívül-milyen-egyéb-óvintézkedéseket-és-válaszlépéseket-tehetett-volna-sára-annak-érdekében-hogy-biztonságban-tartsa-magát-és-az-információit">K10 - A forgatókönyv digitális biztonsági szempontjain kívül milyen egyéb óvintézkedéseket és válaszlépéseket tehetett volna Sára annak érdekében, hogy biztonságban tartsa magát és az információit?</a></li>
+  </ul>
+</nav>
+    </section>
+  </aside>
+</main>
+<div id="report-error-container">
+  <p id="report-error">Ha hibát találtál az oldalon, írj egy levelet a digitalisbiztonsag@proton.me címre!</p>
+</div>
+
+  </body>
+</html>
