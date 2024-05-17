@@ -44,7 +44,7 @@
       <description>Mi az a kétfaktoros hitelesítés? Minden platformon, ahova valaha regisztráltunk, létrehoztunk egy bejelentkezéshez szükséges jelszót. Azonban pusztán a jelszóval történő bejelentkezés nem nyújt elegendő védelmet a fiókfeltöréssel szemben. Itt jön képbe a kétfaktoros hitelesítés (2FA): ez egy biztonsági folyamat, amelynek során a felhasználó bejelentkezéskor két különböző módon is azonosítja magát. A 2FA-nak köszönhetően ha valakinek sikerülne megszereznie vagy kitalálnia a jelszót, egy második akadályt is teljesítenie kell, ami megnehezíti a fiók feltörését.</description>
     </item>
     <item>
-      <title>Titkositas</title>
+      <title>Titkosítás</title>
       <link>https://biz.magor.dev/anyagok/biztonsagos_kommunikacio/titkositas/</link>
       <pubDate>Thu, 14 Mar 2024 15:55:11 +0100</pubDate>
       <guid>https://biz.magor.dev/anyagok/biztonsagos_kommunikacio/titkositas/</guid>
