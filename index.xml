@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digitális Biztonság</title>
-    <link>https://biz.magor.dev/</link>
+    <link>https://digitalisbiztonsag.github.io/</link>
     <description>Recent content on Digitális Biztonság</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
     <lastBuildDate>Mon, 29 Apr 2024 14:10:22 +0200</lastBuildDate>
-    <atom:link href="https://biz.magor.dev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://digitalisbiztonsag.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elvesztett eszköz</title>
-      <link>https://biz.magor.dev/anyagok/ttx/elvesztett-eszkoz/</link>
+      <link>https://digitalisbiztonsag.github.io/anyagok/ttx/elvesztett-eszkoz/</link>
       <pubDate>Thu, 25 Apr 2024 17:52:48 +0200</pubDate>
-      <guid>https://biz.magor.dev/anyagok/ttx/elvesztett-eszkoz/</guid>
+      <guid>https://digitalisbiztonsag.github.io/anyagok/ttx/elvesztett-eszkoz/</guid>
       <description>Cél Segíteni a résztvevőknek felkészülni egy olyan helyzetre, amelyben elvesztik egy vagy több eszközüket, ami akár érzékeny információt is tartalmazhat.&#xA;Tanulási célok Feltérképezni az újságírók és forrásaik közötti biztonságos kommunikáció formáit. Tudatosítani egy telefon vagy laptop elveszítésének kockázatait. Megismerni és megérteni az eszközök védelmének jó gyakorlatát Megosztani a szervezeti beléptetéssel és kiléptetéssel kapcsolatos jó gyakorlatot, elsősorban az eszközök biztonságával kapcsolatban. Készségek / viselkedési formák gyakorlásra TTX előtt vagy után A Signal (vagy más biztonságos üzenetküldő alkalmazás) telepítése, beállítása és használata.</description>
     </item>
     <item>
       <title>Biztonságos üzenetküldő alkalmazások</title>
-      <link>https://biz.magor.dev/biztonsagos-uzenetkuldo-alkalmazasok/</link>
+      <link>https://digitalisbiztonsag.github.io/biztonsagos-uzenetkuldo-alkalmazasok/</link>
       <pubDate>Thu, 25 Apr 2024 16:55:59 +0200</pubDate>
-      <guid>https://biz.magor.dev/biztonsagos-uzenetkuldo-alkalmazasok/</guid>
+      <guid>https://digitalisbiztonsag.github.io/biztonsagos-uzenetkuldo-alkalmazasok/</guid>
       <description>Egy tipikus felhasználó naponta akár több azonnali üzenetküldő alkalmazásra is támaszkodik, ugyanis gyakran eltérő platformokat használunk munkahelyi, családi vagy baráti kommunikációra. Jelenleg a WhatsApp a legnépszerűbb üzenetküldő alkalmazás, mintegy havi 2,4 milliárd felhasználóval. Ez 300 millióval több, mint a második legnépszerűbb app, a Facebook Messenger (2,1 milliárd). Mindeközben a Signal, a biztonságos messenger alkalmazások “szent grálja”, sajnos még mindig csak a tizenegyedik helyen szerepel.&#xA;Mi történhet, ha nem biztonságos egy chat app?</description>
     </item>
     <item>
       <title>Jelszavak</title>
-      <link>https://biz.magor.dev/anyagok/jelszavak-jelszokezelok/jelszavak/</link>
+      <link>https://digitalisbiztonsag.github.io/anyagok/jelszavak-jelszokezelok/jelszavak/</link>
       <pubDate>Thu, 14 Mar 2024 15:53:03 +0100</pubDate>
-      <guid>https://biz.magor.dev/anyagok/jelszavak-jelszokezelok/jelszavak/</guid>
+      <guid>https://digitalisbiztonsag.github.io/anyagok/jelszavak-jelszokezelok/jelszavak/</guid>
       <description>A jó jelszavak képezik digitális biztonságunk alapját. Amint valahova regisztrálunk, létrehozunk egy fiókot, készítünk egy felhasználónevet: máris létrejött egy jelszavunk is. 10-20 éve talán elegendő volt megjegyezni néhány egyszerű jelszót, ma azonban már más a helyzet. Egyre több loginunk van: munkahelyi fiókok, egyetemi hozzáférés, online vásárlás, social media. Manapság már mindenhova be kell jelentkeznünk. Egy átlagembernek ma már 100-nál több fiókja van. Ahhoz, hogy a fiókjainkat – és ezáltal adatainkat – biztonságban tudhassuk</description>
     </item>
     <item>
       <title>Szervezeti biztonság</title>
-      <link>https://biz.magor.dev/anyagok/ttx/szervezeti-biztonsag/</link>
+      <link>https://digitalisbiztonsag.github.io/anyagok/ttx/szervezeti-biztonsag/</link>
       <pubDate>Thu, 25 Apr 2024 17:53:11 +0200</pubDate>
-      <guid>https://biz.magor.dev/anyagok/ttx/szervezeti-biztonsag/</guid>
+      <guid>https://digitalisbiztonsag.github.io/anyagok/ttx/szervezeti-biztonsag/</guid>
       <description>Cél Segíteni a résztvevőknek abban, hogy szervezeteiknél, munkatársaiknál és/vagy szabadúszó újságíróknál a digitális biztonságtudatosság magas szintű legyen és a legjobb gyakorlatokat használják.&#xA;Tanulási célok A digitális biztonság koncepciójára elméletben folyamatos folyamatként, nem pedig végcélként kell tekinteni. Beszélni, tanítani és meggyőzni másokat a digitális biztonság fontosságáról. A biztonságos mobil eszközön történő kommunikáció lehetőségeinek megvitatása Annak biztosítása, hogy a fájlok biztonságos kezelésével a legjobb gyakorlatot követi. Tudatosság a hálózatra kötötti számítógépek fiókbeállításai kapcsán.</description>
     </item>
     <item>
       <title>Kétfaktoros hitelesítés (2FA)</title>
-      <link>https://biz.magor.dev/anyagok/jelszavak-jelszokezelok/ketfaktoros-hitelesites-2fa/</link>
+      <link>https://digitalisbiztonsag.github.io/anyagok/jelszavak-jelszokezelok/ketfaktoros-hitelesites-2fa/</link>
       <pubDate>Sun, 24 Mar 2024 14:47:32 +0100</pubDate>
-      <guid>https://biz.magor.dev/anyagok/jelszavak-jelszokezelok/ketfaktoros-hitelesites-2fa/</guid>
+      <guid>https://digitalisbiztonsag.github.io/anyagok/jelszavak-jelszokezelok/ketfaktoros-hitelesites-2fa/</guid>
       <description>Mi az a kétfaktoros hitelesítés? Minden platformon, ahova valaha regisztráltunk, létrehoztunk egy bejelentkezéshez szükséges jelszót. Azonban pusztán a jelszóval történő bejelentkezés nem nyújt elegendő védelmet a fiókfeltöréssel szemben. Itt jön képbe a kétfaktoros hitelesítés (2FA): ez egy biztonsági folyamat, amelynek során a felhasználó bejelentkezéskor két különböző módon is azonosítja magát. A 2FA-nak köszönhetően ha valakinek sikerülne megszereznie vagy kitalálnia a jelszót, egy második akadályt is teljesítenie kell, ami megnehezíti a fiók feltörését.</description>
     </item>
     <item>
       <title>Titkosítás</title>
-      <link>https://biz.magor.dev/anyagok/biztonsagos_kommunikacio/titkositas/</link>
+      <link>https://digitalisbiztonsag.github.io/anyagok/biztonsagos_kommunikacio/titkositas/</link>
       <pubDate>Thu, 14 Mar 2024 15:55:11 +0100</pubDate>
-      <guid>https://biz.magor.dev/anyagok/biztonsagos_kommunikacio/titkositas/</guid>
+      <guid>https://digitalisbiztonsag.github.io/anyagok/biztonsagos_kommunikacio/titkositas/</guid>
       <description>Mi is az a titkosítás, és hogyan működik? Titkosítást akkor használunk, amikor egy adatot, információt, dokumentumot szeretnénk megőrizni, úgy, hogy rajtunk kívül mások ne férjenek hozzá. Pontosan arra a mechanizmusra épül, mint amikor gyermekként kitaláltunk egy saját titkosírást. Csak mi tudtuk megfejteni, amit leírtunk, vagy azok, akikkel megosztottuk a titkos ábécénket - azaz a kulcsot a dekódoláshoz. Nézzük, milyen típusai vannak a titkosításnak a digitális térben!&#xA;A hagyományos titkosítás lényege, hogy ugyanazt a kulcsot használja a titkosításhoz és a titkosítás visszafejtéséhez (dekódoláshoz) is.</description>
     </item>
     <item>
       <title>Zaklatás és Doxxolás</title>
-      <link>https://biz.magor.dev/anyagok/ttx/zaklatas-es-doxxolas/</link>
+      <link>https://digitalisbiztonsag.github.io/anyagok/ttx/zaklatas-es-doxxolas/</link>
       <pubDate>Thu, 25 Apr 2024 17:53:22 +0200</pubDate>
-      <guid>https://biz.magor.dev/anyagok/ttx/zaklatas-es-doxxolas/</guid>
+      <guid>https://digitalisbiztonsag.github.io/anyagok/ttx/zaklatas-es-doxxolas/</guid>
       <description>Cél Segíteni a résztvevőknek abban, hogyan tudnak a legjobban felkészülni és reagálni a doxxingra és az online zaklatásra.&#xA;Tanulási célok Módszerek és enyhítő intézkedések meghatározása a közösségi médiában történő zaklatásban és doxxingban érintett újságírók számára. Az újságírók és szerkesztőségben dolgozók értsék meg, miképpen szerezhetik meg és használhatják fel ellenük a közösségi médiában megtalálható adataikat. A nemek és a zaklatás közötti kapcsolat, és annak biztonsági következményeinek megértése. Megbeszélni, milyen intézkedéseket és gyakorlatokat tud egy médiaszervezet hozni annak érdekében, hogy megvédje a doxxolásnak és zaklatásnak kitett dolgozóit és ügyfeleit.</description>
     </item>
     <item>
       <title>Vpn</title>
-      <link>https://biz.magor.dev/anyagok/biztonsagos_kommunikacio/vpn/</link>
+      <link>https://digitalisbiztonsag.github.io/anyagok/biztonsagos_kommunikacio/vpn/</link>
       <pubDate>Thu, 14 Mar 2024 15:54:39 +0100</pubDate>
-      <guid>https://biz.magor.dev/anyagok/biztonsagos_kommunikacio/vpn/</guid>
+      <guid>https://digitalisbiztonsag.github.io/anyagok/biztonsagos_kommunikacio/vpn/</guid>
       <description>Mi az a VPN? A VPN a “Virtual Private Network” (magyarul Virtuális magánhálózat) rövidítése. A VPN egy olyan szolgáltatás, amely titkosítja az interneten végzett tevékenységet, és a böngészés során elrejti a személyazonosságot. Vagyis a VPN-ek egy extra adatvédelmet biztosítanak, lehetővé teszik a külföldi webhelyek elérését, és biztonságos kapcsolatot biztosítanak az érzékeny információk átviteléhez.&#xA;Amikor csatlakozol egy VPN-hez, minden adat, amit az eszközödről küldesz, úgy látszik, mintha magától a VPN szolgáltatótól érkezne, nem pedig az internetszolgáltatódtól (ISP).</description>
     </item>
     <item>
       <title>Hatoságok behatolnak a szerkesztőségbe</title>
-      <link>https://biz.magor.dev/hatosagok-a-szerkesztosegben/</link>
+      <link>https://digitalisbiztonsag.github.io/hatosagok-a-szerkesztosegben/</link>
       <pubDate>Thu, 25 Apr 2024 17:53:35 +0200</pubDate>
-      <guid>https://biz.magor.dev/hatosagok-a-szerkesztosegben/</guid>
+      <guid>https://digitalisbiztonsag.github.io/hatosagok-a-szerkesztosegben/</guid>
       <description>Cél Segítség a résztvevőknek abban, hogy elméletben és gyakorlatban is reagálni tudjanak arra, ha a hatóságok behatolnak a szerkesztőségükbe.&#xA;Tanulási célok Biztosítson egy kommunikációs tervet és tartalék technikai elemeket arra az esetre, ha a szerkesztőséghez vagy a személyes eszközhöz való hozzáférés már nem lehetséges. Ismerje és értse meg a legjobb gyakorlatot a digitális eszközök biztosításával kapcsolatban egy szerkesztőségen vagy egy szervezeten belül. Azonosítsa a digitális eszközökön, például számítógépen vagy mobiltelefonon tárolt fájlok védelmének különböző módjait.</description>
     </item>
     <item>
       <title>Metaadatok</title>
-      <link>https://biz.magor.dev/anyagok/biztonsagos_kommunikacio/metadata/</link>
+      <link>https://digitalisbiztonsag.github.io/anyagok/biztonsagos_kommunikacio/metadata/</link>
       <pubDate>Thu, 25 Apr 2024 17:02:05 +0200</pubDate>
-      <guid>https://biz.magor.dev/anyagok/biztonsagos_kommunikacio/metadata/</guid>
+      <guid>https://digitalisbiztonsag.github.io/anyagok/biztonsagos_kommunikacio/metadata/</guid>
       <description>Metaadatok keletkeznek minden egyes digitális cselekvésünk során. Ilyen adatok például a lokáció, az eszköz, az időpont, az IP cím. Üzenetküldés, kommunikáció során úgyis mondhatjuk, hogy a metaadatok minden, az üzenetünk tartalmán kívül. Az IP-címen kívül számos más adat is eljut az infrastruktúra különböző tulajdonosai felé, amikor az internetet használjuk, például, hogy milyen webhelyeket látogatunk meg és mikor, valamint az általunk használt eszköz jellemzőit. Mindezt metaadatoknak nevezzük. Az eszközödnek van egy egyedi vagy majdnem egyedi ujjlenyomata.</description>
     </item>
     <item>
       <title>Hatóságok behatolnak egy újságíró lakásába</title>
-      <link>https://biz.magor.dev/hatosagok-ujsagiro-otthonaban/</link>
+      <link>https://digitalisbiztonsag.github.io/hatosagok-ujsagiro-otthonaban/</link>
       <pubDate>Thu, 25 Apr 2024 17:54:01 +0200</pubDate>
-      <guid>https://biz.magor.dev/hatosagok-ujsagiro-otthonaban/</guid>
+      <guid>https://digitalisbiztonsag.github.io/hatosagok-ujsagiro-otthonaban/</guid>
       <description>Cél Az újságíróknak elméleti és technikai ismereteket nyújtani ahhoz, hogy a lehető legjobb digitális biztonságot érhessék el otthoni környezetükben.&#xA;Tanulási célok Az otthoni digitális eszközök védelmének megértése Papír jegyzetfüzetekkel kapcsolatos biztonsági intézkedések alkalmazása A fájlok távoli törlésének kezdeményezése, valamint az ezzel kapcsolatos pozitívumok és negatívumok. A veszélyeztetett információkhoz való hozzáférés korlátozása. Felkészülés a hatóságok újságíró otthonába való behatolására. Rávenni a résztvevőket, hogy gondolkozzanak közösen a szervezeti és közösségi biztonságról. Különös figyelmet szentelve a szerkesztőkkel, a menedzserekkel, ügyvédekkel folytatott munkára stresszes helyzetekben.</description>
     </item>
     <item>
       <title>Szószedet, fogalommagyarázat</title>
-      <link>https://biz.magor.dev/anyagok/forrasok/fogalmak/</link>
+      <link>https://digitalisbiztonsag.github.io/anyagok/forrasok/fogalmak/</link>
       <pubDate>Mon, 29 Apr 2024 14:10:22 +0200</pubDate>
-      <guid>https://biz.magor.dev/anyagok/forrasok/fogalmak/</guid>
+      <guid>https://digitalisbiztonsag.github.io/anyagok/forrasok/fogalmak/</guid>
       <description></description>
     </item>
     <item>
       <title>Külső hivatkozások</title>
-      <link>https://biz.magor.dev/anyagok/forrasok/linkek/</link>
+      <link>https://digitalisbiztonsag.github.io/anyagok/forrasok/linkek/</link>
       <pubDate>Mon, 29 Apr 2024 14:09:41 +0200</pubDate>
-      <guid>https://biz.magor.dev/anyagok/forrasok/linkek/</guid>
+      <guid>https://digitalisbiztonsag.github.io/anyagok/forrasok/linkek/</guid>
       <description></description>
     </item>
     <item>
       <title>Phishing (adathalászat)</title>
-      <link>https://biz.magor.dev/anyagok/hetkoznapi_tamadasok/adathalaszat/</link>
+      <link>https://digitalisbiztonsag.github.io/anyagok/hetkoznapi_tamadasok/adathalaszat/</link>
       <pubDate>Thu, 25 Apr 2024 17:36:28 +0200</pubDate>
-      <guid>https://biz.magor.dev/anyagok/hetkoznapi_tamadasok/adathalaszat/</guid>
+      <guid>https://digitalisbiztonsag.github.io/anyagok/hetkoznapi_tamadasok/adathalaszat/</guid>
       <description>Mi az a phishing? Phishingnek azt a jelenséget nevezzük, amikor egy rosszakaró olyan e-mailt, linket küld, ami első ránézésre ártalmatlannak és hitelesnek tűnik, de valójában a megtévesztés és károkozás a célja. Az újságírók és a szerkesztőségek egyre gyakrabban válnak hackertámadások és malware (rosszindulatú szoftver) áldozataivá, a &amp;ldquo;kifinomult&amp;rdquo; hackelés sokszor egy viszonylag egyszerű e-mailes támadással jár: phishing és spear phishing.&#xA;Az adathalász-támadás általában egy olyan üzenet formájában érkezik, amelynek célja, hogy meggyőzzön téged, hogy:</description>
     </item>
     <item>
       <title>Rólunk</title>
-      <link>https://biz.magor.dev/rolunk/</link>
+      <link>https://digitalisbiztonsag.github.io/rolunk/</link>
       <pubDate>Sun, 24 Mar 2024 13:26:35 +0100</pubDate>
-      <guid>https://biz.magor.dev/rolunk/</guid>
+      <guid>https://digitalisbiztonsag.github.io/rolunk/</guid>
       <description>A digitális biztonság egyre fontosabb napjainkban, különösen a digitális térben dolgozók számára. Oldalunk célja, hogy segítsünk eligazodni ebben a bonyolult világban, és alapvető információkkal lássuk el az újságírókat, médiában dolgozókat. Mi magunk is médiamunkások vagyunk, három éve foglalkozunk digitális biztonsággal, ezidő alatt felhalmozódott gyakorlati tudásunkat szeretnénk átadni.&#xA;Kik vagyunk mi? 2021 májusában az Internews nevű amerikai médiatámogatási szervezet elindított egy programot, Journalist Security Fellowship néven. A program célja a digitális biztonsággal kapcsolatos tudás és tudatosság terjesztése a kelet-közép-európai régióban.</description>
     </item>
   </channel>

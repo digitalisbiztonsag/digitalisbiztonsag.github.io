@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hétköznapi támadások on Digitális Biztonság</title>
-    <link>https://biz.magor.dev/anyagok/hetkoznapi_tamadasok/</link>
+    <link>https://digitalisbiztonsag.github.io/anyagok/hetkoznapi_tamadasok/</link>
     <description>Recent content in Hétköznapi támadások on Digitális Biztonság</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
     <lastBuildDate>Thu, 25 Apr 2024 17:36:28 +0200</lastBuildDate>
-    <atom:link href="https://biz.magor.dev/anyagok/hetkoznapi_tamadasok/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://digitalisbiztonsag.github.io/anyagok/hetkoznapi_tamadasok/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Phishing (adathalászat)</title>
-      <link>https://biz.magor.dev/anyagok/hetkoznapi_tamadasok/adathalaszat/</link>
+      <link>https://digitalisbiztonsag.github.io/anyagok/hetkoznapi_tamadasok/adathalaszat/</link>
       <pubDate>Thu, 25 Apr 2024 17:36:28 +0200</pubDate>
-      <guid>https://biz.magor.dev/anyagok/hetkoznapi_tamadasok/adathalaszat/</guid>
+      <guid>https://digitalisbiztonsag.github.io/anyagok/hetkoznapi_tamadasok/adathalaszat/</guid>
       <description>Mi az a phishing? Phishingnek azt a jelenséget nevezzük, amikor egy rosszakaró olyan e-mailt, linket küld, ami első ránézésre ártalmatlannak és hitelesnek tűnik, de valójában a megtévesztés és károkozás a célja. Az újságírók és a szerkesztőségek egyre gyakrabban válnak hackertámadások és malware (rosszindulatú szoftver) áldozataivá, a &amp;ldquo;kifinomult&amp;rdquo; hackelés sokszor egy viszonylag egyszerű e-mailes támadással jár: phishing és spear phishing.&#xA;Az adathalász-támadás általában egy olyan üzenet formájában érkezik, amelynek célja, hogy meggyőzzön téged, hogy:</description>
     </item>
   </channel>

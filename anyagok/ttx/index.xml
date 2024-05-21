@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Table-top exercises (TTX) on Digitális Biztonság</title>
-    <link>https://biz.magor.dev/anyagok/ttx/</link>
+    <link>https://digitalisbiztonsag.github.io/anyagok/ttx/</link>
     <description>Recent content in Table-top exercises (TTX) on Digitális Biztonság</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
     <lastBuildDate>Thu, 25 Apr 2024 17:54:01 +0200</lastBuildDate>
-    <atom:link href="https://biz.magor.dev/anyagok/ttx/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://digitalisbiztonsag.github.io/anyagok/ttx/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elvesztett eszköz</title>
-      <link>https://biz.magor.dev/anyagok/ttx/elvesztett-eszkoz/</link>
+      <link>https://digitalisbiztonsag.github.io/anyagok/ttx/elvesztett-eszkoz/</link>
       <pubDate>Thu, 25 Apr 2024 17:52:48 +0200</pubDate>
-      <guid>https://biz.magor.dev/anyagok/ttx/elvesztett-eszkoz/</guid>
+      <guid>https://digitalisbiztonsag.github.io/anyagok/ttx/elvesztett-eszkoz/</guid>
       <description>Cél Segíteni a résztvevőknek felkészülni egy olyan helyzetre, amelyben elvesztik egy vagy több eszközüket, ami akár érzékeny információt is tartalmazhat.&#xA;Tanulási célok Feltérképezni az újságírók és forrásaik közötti biztonságos kommunikáció formáit. Tudatosítani egy telefon vagy laptop elveszítésének kockázatait. Megismerni és megérteni az eszközök védelmének jó gyakorlatát Megosztani a szervezeti beléptetéssel és kiléptetéssel kapcsolatos jó gyakorlatot, elsősorban az eszközök biztonságával kapcsolatban. Készségek / viselkedési formák gyakorlásra TTX előtt vagy után A Signal (vagy más biztonságos üzenetküldő alkalmazás) telepítése, beállítása és használata.</description>
     </item>
     <item>
       <title>Szervezeti biztonság</title>
-      <link>https://biz.magor.dev/anyagok/ttx/szervezeti-biztonsag/</link>
+      <link>https://digitalisbiztonsag.github.io/anyagok/ttx/szervezeti-biztonsag/</link>
       <pubDate>Thu, 25 Apr 2024 17:53:11 +0200</pubDate>
-      <guid>https://biz.magor.dev/anyagok/ttx/szervezeti-biztonsag/</guid>
+      <guid>https://digitalisbiztonsag.github.io/anyagok/ttx/szervezeti-biztonsag/</guid>
       <description>Cél Segíteni a résztvevőknek abban, hogy szervezeteiknél, munkatársaiknál és/vagy szabadúszó újságíróknál a digitális biztonságtudatosság magas szintű legyen és a legjobb gyakorlatokat használják.&#xA;Tanulási célok A digitális biztonság koncepciójára elméletben folyamatos folyamatként, nem pedig végcélként kell tekinteni. Beszélni, tanítani és meggyőzni másokat a digitális biztonság fontosságáról. A biztonságos mobil eszközön történő kommunikáció lehetőségeinek megvitatása Annak biztosítása, hogy a fájlok biztonságos kezelésével a legjobb gyakorlatot követi. Tudatosság a hálózatra kötötti számítógépek fiókbeállításai kapcsán.</description>
     </item>
     <item>
       <title>Zaklatás és Doxxolás</title>
-      <link>https://biz.magor.dev/anyagok/ttx/zaklatas-es-doxxolas/</link>
+      <link>https://digitalisbiztonsag.github.io/anyagok/ttx/zaklatas-es-doxxolas/</link>
       <pubDate>Thu, 25 Apr 2024 17:53:22 +0200</pubDate>
-      <guid>https://biz.magor.dev/anyagok/ttx/zaklatas-es-doxxolas/</guid>
+      <guid>https://digitalisbiztonsag.github.io/anyagok/ttx/zaklatas-es-doxxolas/</guid>
       <description>Cél Segíteni a résztvevőknek abban, hogyan tudnak a legjobban felkészülni és reagálni a doxxingra és az online zaklatásra.&#xA;Tanulási célok Módszerek és enyhítő intézkedések meghatározása a közösségi médiában történő zaklatásban és doxxingban érintett újságírók számára. Az újságírók és szerkesztőségben dolgozók értsék meg, miképpen szerezhetik meg és használhatják fel ellenük a közösségi médiában megtalálható adataikat. A nemek és a zaklatás közötti kapcsolat, és annak biztonsági következményeinek megértése. Megbeszélni, milyen intézkedéseket és gyakorlatokat tud egy médiaszervezet hozni annak érdekében, hogy megvédje a doxxolásnak és zaklatásnak kitett dolgozóit és ügyfeleit.</description>
     </item>
     <item>
       <title>Hatoságok behatolnak a szerkesztőségbe</title>
-      <link>https://biz.magor.dev/hatosagok-a-szerkesztosegben/</link>
+      <link>https://digitalisbiztonsag.github.io/hatosagok-a-szerkesztosegben/</link>
       <pubDate>Thu, 25 Apr 2024 17:53:35 +0200</pubDate>
-      <guid>https://biz.magor.dev/hatosagok-a-szerkesztosegben/</guid>
+      <guid>https://digitalisbiztonsag.github.io/hatosagok-a-szerkesztosegben/</guid>
       <description>Cél Segítség a résztvevőknek abban, hogy elméletben és gyakorlatban is reagálni tudjanak arra, ha a hatóságok behatolnak a szerkesztőségükbe.&#xA;Tanulási célok Biztosítson egy kommunikációs tervet és tartalék technikai elemeket arra az esetre, ha a szerkesztőséghez vagy a személyes eszközhöz való hozzáférés már nem lehetséges. Ismerje és értse meg a legjobb gyakorlatot a digitális eszközök biztosításával kapcsolatban egy szerkesztőségen vagy egy szervezeten belül. Azonosítsa a digitális eszközökön, például számítógépen vagy mobiltelefonon tárolt fájlok védelmének különböző módjait.</description>
     </item>
     <item>
       <title>Hatóságok behatolnak egy újságíró lakásába</title>
-      <link>https://biz.magor.dev/hatosagok-ujsagiro-otthonaban/</link>
+      <link>https://digitalisbiztonsag.github.io/hatosagok-ujsagiro-otthonaban/</link>
       <pubDate>Thu, 25 Apr 2024 17:54:01 +0200</pubDate>
-      <guid>https://biz.magor.dev/hatosagok-ujsagiro-otthonaban/</guid>
+      <guid>https://digitalisbiztonsag.github.io/hatosagok-ujsagiro-otthonaban/</guid>
       <description>Cél Az újságíróknak elméleti és technikai ismereteket nyújtani ahhoz, hogy a lehető legjobb digitális biztonságot érhessék el otthoni környezetükben.&#xA;Tanulási célok Az otthoni digitális eszközök védelmének megértése Papír jegyzetfüzetekkel kapcsolatos biztonsági intézkedések alkalmazása A fájlok távoli törlésének kezdeményezése, valamint az ezzel kapcsolatos pozitívumok és negatívumok. A veszélyeztetett információkhoz való hozzáférés korlátozása. Felkészülés a hatóságok újságíró otthonába való behatolására. Rávenni a résztvevőket, hogy gondolkozzanak közösen a szervezeti és közösségi biztonságról. Különös figyelmet szentelve a szerkesztőkkel, a menedzserekkel, ügyvédekkel folytatott munkára stresszes helyzetekben.</description>
     </item>
   </channel>

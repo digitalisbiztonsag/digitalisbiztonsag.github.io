@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Egyéb hasznos források on Digitális Biztonság</title>
-    <link>https://biz.magor.dev/anyagok/forrasok/</link>
+    <link>https://digitalisbiztonsag.github.io/anyagok/forrasok/</link>
     <description>Recent content in Egyéb hasznos források on Digitális Biztonság</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
     <lastBuildDate>Mon, 29 Apr 2024 14:10:22 +0200</lastBuildDate>
-    <atom:link href="https://biz.magor.dev/anyagok/forrasok/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://digitalisbiztonsag.github.io/anyagok/forrasok/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Szószedet, fogalommagyarázat</title>
-      <link>https://biz.magor.dev/anyagok/forrasok/fogalmak/</link>
+      <link>https://digitalisbiztonsag.github.io/anyagok/forrasok/fogalmak/</link>
       <pubDate>Mon, 29 Apr 2024 14:10:22 +0200</pubDate>
-      <guid>https://biz.magor.dev/anyagok/forrasok/fogalmak/</guid>
+      <guid>https://digitalisbiztonsag.github.io/anyagok/forrasok/fogalmak/</guid>
       <description></description>
     </item>
     <item>
       <title>Külső hivatkozások</title>
-      <link>https://biz.magor.dev/anyagok/forrasok/linkek/</link>
+      <link>https://digitalisbiztonsag.github.io/anyagok/forrasok/linkek/</link>
       <pubDate>Mon, 29 Apr 2024 14:09:41 +0200</pubDate>
-      <guid>https://biz.magor.dev/anyagok/forrasok/linkek/</guid>
+      <guid>https://digitalisbiztonsag.github.io/anyagok/forrasok/linkek/</guid>
       <description></description>
     </item>
   </channel>

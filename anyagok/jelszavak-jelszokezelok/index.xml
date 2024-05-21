@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jelszavak, jelszókezelés on Digitális Biztonság</title>
-    <link>https://biz.magor.dev/anyagok/jelszavak-jelszokezelok/</link>
+    <link>https://digitalisbiztonsag.github.io/anyagok/jelszavak-jelszokezelok/</link>
     <description>Recent content in Jelszavak, jelszókezelés on Digitális Biztonság</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
     <lastBuildDate>Sun, 24 Mar 2024 14:47:32 +0100</lastBuildDate>
-    <atom:link href="https://biz.magor.dev/anyagok/jelszavak-jelszokezelok/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://digitalisbiztonsag.github.io/anyagok/jelszavak-jelszokezelok/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jelszavak</title>
-      <link>https://biz.magor.dev/anyagok/jelszavak-jelszokezelok/jelszavak/</link>
+      <link>https://digitalisbiztonsag.github.io/anyagok/jelszavak-jelszokezelok/jelszavak/</link>
       <pubDate>Thu, 14 Mar 2024 15:53:03 +0100</pubDate>
-      <guid>https://biz.magor.dev/anyagok/jelszavak-jelszokezelok/jelszavak/</guid>
+      <guid>https://digitalisbiztonsag.github.io/anyagok/jelszavak-jelszokezelok/jelszavak/</guid>
       <description>A jó jelszavak képezik digitális biztonságunk alapját. Amint valahova regisztrálunk, létrehozunk egy fiókot, készítünk egy felhasználónevet: máris létrejött egy jelszavunk is. 10-20 éve talán elegendő volt megjegyezni néhány egyszerű jelszót, ma azonban már más a helyzet. Egyre több loginunk van: munkahelyi fiókok, egyetemi hozzáférés, online vásárlás, social media. Manapság már mindenhova be kell jelentkeznünk. Egy átlagembernek ma már 100-nál több fiókja van. Ahhoz, hogy a fiókjainkat – és ezáltal adatainkat – biztonságban tudhassuk</description>
     </item>
     <item>
       <title>Kétfaktoros hitelesítés (2FA)</title>
-      <link>https://biz.magor.dev/anyagok/jelszavak-jelszokezelok/ketfaktoros-hitelesites-2fa/</link>
+      <link>https://digitalisbiztonsag.github.io/anyagok/jelszavak-jelszokezelok/ketfaktoros-hitelesites-2fa/</link>
       <pubDate>Sun, 24 Mar 2024 14:47:32 +0100</pubDate>
-      <guid>https://biz.magor.dev/anyagok/jelszavak-jelszokezelok/ketfaktoros-hitelesites-2fa/</guid>
+      <guid>https://digitalisbiztonsag.github.io/anyagok/jelszavak-jelszokezelok/ketfaktoros-hitelesites-2fa/</guid>
       <description>Mi az a kétfaktoros hitelesítés? Minden platformon, ahova valaha regisztráltunk, létrehoztunk egy bejelentkezéshez szükséges jelszót. Azonban pusztán a jelszóval történő bejelentkezés nem nyújt elegendő védelmet a fiókfeltöréssel szemben. Itt jön képbe a kétfaktoros hitelesítés (2FA): ez egy biztonsági folyamat, amelynek során a felhasználó bejelentkezéskor két különböző módon is azonosítja magát. A 2FA-nak köszönhetően ha valakinek sikerülne megszereznie vagy kitalálnia a jelszót, egy második akadályt is teljesítenie kell, ami megnehezíti a fiók feltörését.</description>
     </item>
   </channel>
