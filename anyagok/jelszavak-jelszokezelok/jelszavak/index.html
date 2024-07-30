@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="hu">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,24 +15,13 @@
   <body>
     
 <header id="header" class="grid justify-between">
-  <h1 class="home-title home-title--header"><a href="/">Digitális Biztonság</a></h1>
-  <nav id="header-nav">
-    <div class="nav-buttons-desktop">
-      <ul id="header-menu">
-  <li class="header-menu-item-li"><a class="header-menu-item" href="/anyagok">Tartalom</li></a>
-  <li class="header-menu-item-li"><a class="header-menu-item" href="/rolunk">Rólunk</li></a>
-</ul>
-
-    </div>
-    <details id="mobile-menu">
-      <summary id="mobile-menu-icon"><img src="https://digitalisbiztonsag.github.io/images/menu.svg" /></summary>
-      <div id="mobile-mainnav">
-        <ul id="header-menu">
-  <li class="header-menu-item-li"><a class="header-menu-item" href="/anyagok">Tartalom</li></a>
-  <li class="header-menu-item-li"><a class="header-menu-item" href="/rolunk">Rólunk</li></a>
-</ul>
-
-        
+  <div id="header-container">
+    <div class="home-title home-title--header"><a href="/">Digitális Biztonság</a></div>
+    <nav id="header-nav">
+      <details id="mobile-menu">
+        <summary id="mobile-menu-icon"><img src="https://digitalisbiztonsag.github.io/images/menu.svg" alt="hamburger-menu-icon" /></summary>
+        <div id="mobile-mainnav">
+          
 
 <nav class="nav-main">
   <div id="nav-title-container">
@@ -68,7 +57,7 @@
             
           
             
-              <a class="nav-pages-link" href="/anyagok/biztonsagos_kommunikacio/vpn/">Vpn</a>
+              <a class="nav-pages-link" href="/anyagok/biztonsagos_kommunikacio/vpn/">VPN</a>
             
           
             
@@ -123,25 +112,20 @@
       
         <section class="nav-pages-section">
           
-            
-              <a class="nav-pages-link" href="/anyagok/forrasok/fogalmak/">Szószedet, fogalommagyarázat</a>
-            
-          
-            
-              <a class="nav-pages-link" href="/anyagok/forrasok/linkek/">Külső hivatkozások</a>
-            
-          
       </section>
   </details>
     
   
+  
+    <a class="rolunk-button" href="/rolunk">Rólunk</a>
+  
   </div>
-  <div id="nav-overlay"></div>
 </nav>
 
-      </div>
-    </details>
-  </nav>
+        </div>
+      </details>
+    </nav>
+  </div>
 </header>
 
     
@@ -185,7 +169,7 @@
             
           
             
-              <a class="nav-pages-link" href="/anyagok/biztonsagos_kommunikacio/vpn/">Vpn</a>
+              <a class="nav-pages-link" href="/anyagok/biztonsagos_kommunikacio/vpn/">VPN</a>
             
           
             
@@ -240,20 +224,14 @@
       
         <section class="nav-pages-section">
           
-            
-              <a class="nav-pages-link" href="/anyagok/forrasok/fogalmak/">Szószedet, fogalommagyarázat</a>
-            
-          
-            
-              <a class="nav-pages-link" href="/anyagok/forrasok/linkek/">Külső hivatkozások</a>
-            
-          
       </section>
   </details>
     
   
+  
+    <a class="rolunk-button" href="/rolunk">Rólunk</a>
+  
   </div>
-  <div id="nav-overlay"></div>
 </nav>
 
     </div>
@@ -280,7 +258,7 @@ Ahhoz, hogy a fiókjainkat – és ezáltal adatainkat – biztonságban tudhass
 </ul>
 <p>Jó gyakorlat lehet jelszavak helyett rövidebb mondatokban, szókapcsolatokban gondolkodni (passphrase). Például versek, dalszövegek részlete, idézetek, tehát valami, ami könnyen megjegyezhető, mégis elég hosszú, komplex és egyedi. Ha a szavakat speciális karakterekkel és számokkal választod el, máris van egy kiváló jelszavad.</p>
 <h2 id="mely-néhány-jelszavadat-érdemes-mégis-megjegyezni-és-fejben-tartani">Mely néhány jelszavadat érdemes mégis megjegyezni és fejben tartani?</h2>
-<ol>
+<ul>
 <li>a jelszókezelőd mesterjelszava</li>
 <li>Apple ID/Android ID/Google Account</li>
 <li>Gmail/email jelszó</li>
@@ -288,7 +266,7 @@ Ahhoz, hogy a fiókjainkat – és ezáltal adatainkat – biztonságban tudhass
 <li>telefonod jelkódja/jelszava</li>
 <li>számítógéped BitLockere</li>
 <li>számítógéped jelszava/PIN kódja</li>
-</ol>
+</ul>
 <h2 id="jelszókezelő-alkalmazások">Jelszókezelő alkalmazások</h2>
 <p>A jelszókezelők lényege, hogy egy mesterjelszóval védik az összes többi bejelentkezésedhez szükséges hosszú, komplex jelszavakat. Ilyen jelszókezelő például a böngészők jelszókezelői és az iCloud kulcskarika is. Léteznek azonban direkt erre a célra létrehozott jelszókezelők is, különböző technológiák mentén. Ezekben az alkalmazásokban nemcsak jelszavakat, de más érzékeny, fontos adatot is tárolhatsz, például az útleveled számát vagy a bankkártya adataidat.
 A következő jellemzőket érdemes keresni, amikor jelszókezelőt választunk:
@@ -311,10 +289,14 @@ támogatja a közismert operációs rendszereket</p>
 <li><a href="https://freedom.press/training/blog/choosing-password-manager/">https://freedom.press/training/blog/choosing-password-manager/</a></li>
 </ul>
 
+    <div id="report-error-container">
+      <p id="report-error">Ha hibát találtál az oldalon, írj egy levelet a digitalisbiztonsag@proton.me címre!</p>
+    </div>
   </article>
+  
   <aside>
-    <section id="toc">
-      <h4 id="toc-title">Tartalomjegyzék</h4>
+    <details open id="toc">
+      <summary id="toc-title">Tartalomjegyzék</summary>
       <nav id="TableOfContents">
   <ul>
     <li><a href="#milyen-a-jó-jelszó">Milyen a jó jelszó?</a></li>
@@ -322,12 +304,10 @@ támogatja a közismert operációs rendszereket</p>
     <li><a href="#jelszókezelő-alkalmazások">Jelszókezelő alkalmazások</a></li>
   </ul>
 </nav>
-    </section>
+    </details>
   </aside>
+  
 </main>
-<div id="report-error-container">
-  <p id="report-error">Ha hibát találtál az oldalon, írj egy levelet a digitalisbiztonsag@proton.me címre!</p>
-</div>
 
   </body>
 </html>

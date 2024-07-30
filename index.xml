@@ -4,9 +4,9 @@
     <title>Digitális Biztonság</title>
     <link>https://digitalisbiztonsag.github.io/</link>
     <description>Recent content on Digitális Biztonság</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>hu</language>
-    <lastBuildDate>Mon, 29 Apr 2024 14:10:22 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 17:54:01 +0200</lastBuildDate>
     <atom:link href="https://digitalisbiztonsag.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elvesztett eszköz</title>
@@ -58,7 +58,7 @@
       <description>Cél Segíteni a résztvevőknek abban, hogyan tudnak a legjobban felkészülni és reagálni a doxxingra és az online zaklatásra.&#xA;Tanulási célok Módszerek és enyhítő intézkedések meghatározása a közösségi médiában történő zaklatásban és doxxingban érintett újságírók számára. Az újságírók és szerkesztőségben dolgozók értsék meg, miképpen szerezhetik meg és használhatják fel ellenük a közösségi médiában megtalálható adataikat. A nemek és a zaklatás közötti kapcsolat, és annak biztonsági következményeinek megértése. Megbeszélni, milyen intézkedéseket és gyakorlatokat tud egy médiaszervezet hozni annak érdekében, hogy megvédje a doxxolásnak és zaklatásnak kitett dolgozóit és ügyfeleit.</description>
     </item>
     <item>
-      <title>Vpn</title>
+      <title>VPN</title>
       <link>https://digitalisbiztonsag.github.io/anyagok/biztonsagos_kommunikacio/vpn/</link>
       <pubDate>Thu, 14 Mar 2024 15:54:39 +0100</pubDate>
       <guid>https://digitalisbiztonsag.github.io/anyagok/biztonsagos_kommunikacio/vpn/</guid>
@@ -84,20 +84,6 @@
       <pubDate>Thu, 25 Apr 2024 17:54:01 +0200</pubDate>
       <guid>https://digitalisbiztonsag.github.io/hatosagok-ujsagiro-otthonaban/</guid>
       <description>Cél Az újságíróknak elméleti és technikai ismereteket nyújtani ahhoz, hogy a lehető legjobb digitális biztonságot érhessék el otthoni környezetükben.&#xA;Tanulási célok Az otthoni digitális eszközök védelmének megértése Papír jegyzetfüzetekkel kapcsolatos biztonsági intézkedések alkalmazása A fájlok távoli törlésének kezdeményezése, valamint az ezzel kapcsolatos pozitívumok és negatívumok. A veszélyeztetett információkhoz való hozzáférés korlátozása. Felkészülés a hatóságok újságíró otthonába való behatolására. Rávenni a résztvevőket, hogy gondolkozzanak közösen a szervezeti és közösségi biztonságról. Különös figyelmet szentelve a szerkesztőkkel, a menedzserekkel, ügyvédekkel folytatott munkára stresszes helyzetekben.</description>
-    </item>
-    <item>
-      <title>Szószedet, fogalommagyarázat</title>
-      <link>https://digitalisbiztonsag.github.io/anyagok/forrasok/fogalmak/</link>
-      <pubDate>Mon, 29 Apr 2024 14:10:22 +0200</pubDate>
-      <guid>https://digitalisbiztonsag.github.io/anyagok/forrasok/fogalmak/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Külső hivatkozások</title>
-      <link>https://digitalisbiztonsag.github.io/anyagok/forrasok/linkek/</link>
-      <pubDate>Mon, 29 Apr 2024 14:09:41 +0200</pubDate>
-      <guid>https://digitalisbiztonsag.github.io/anyagok/forrasok/linkek/</guid>
-      <description></description>
     </item>
     <item>
       <title>Phishing (adathalászat)</title>

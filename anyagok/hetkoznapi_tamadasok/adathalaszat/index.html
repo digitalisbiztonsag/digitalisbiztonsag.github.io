@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="hu">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,24 +15,13 @@
   <body>
     
 <header id="header" class="grid justify-between">
-  <h1 class="home-title home-title--header"><a href="/">Digitális Biztonság</a></h1>
-  <nav id="header-nav">
-    <div class="nav-buttons-desktop">
-      <ul id="header-menu">
-  <li class="header-menu-item-li"><a class="header-menu-item" href="/anyagok">Tartalom</li></a>
-  <li class="header-menu-item-li"><a class="header-menu-item" href="/rolunk">Rólunk</li></a>
-</ul>
-
-    </div>
-    <details id="mobile-menu">
-      <summary id="mobile-menu-icon"><img src="https://digitalisbiztonsag.github.io/images/menu.svg" /></summary>
-      <div id="mobile-mainnav">
-        <ul id="header-menu">
-  <li class="header-menu-item-li"><a class="header-menu-item" href="/anyagok">Tartalom</li></a>
-  <li class="header-menu-item-li"><a class="header-menu-item" href="/rolunk">Rólunk</li></a>
-</ul>
-
-        
+  <div id="header-container">
+    <div class="home-title home-title--header"><a href="/">Digitális Biztonság</a></div>
+    <nav id="header-nav">
+      <details id="mobile-menu">
+        <summary id="mobile-menu-icon"><img src="https://digitalisbiztonsag.github.io/images/menu.svg" alt="hamburger-menu-icon" /></summary>
+        <div id="mobile-mainnav">
+          
 
 <nav class="nav-main">
   <div id="nav-title-container">
@@ -68,7 +57,7 @@
             
           
             
-              <a class="nav-pages-link" href="/anyagok/biztonsagos_kommunikacio/vpn/">Vpn</a>
+              <a class="nav-pages-link" href="/anyagok/biztonsagos_kommunikacio/vpn/">VPN</a>
             
           
             
@@ -123,25 +112,20 @@
       
         <section class="nav-pages-section">
           
-            
-              <a class="nav-pages-link" href="/anyagok/forrasok/fogalmak/">Szószedet, fogalommagyarázat</a>
-            
-          
-            
-              <a class="nav-pages-link" href="/anyagok/forrasok/linkek/">Külső hivatkozások</a>
-            
-          
       </section>
   </details>
     
   
+  
+    <a class="rolunk-button" href="/rolunk">Rólunk</a>
+  
   </div>
-  <div id="nav-overlay"></div>
 </nav>
 
-      </div>
-    </details>
-  </nav>
+        </div>
+      </details>
+    </nav>
+  </div>
 </header>
 
     
@@ -185,7 +169,7 @@
             
           
             
-              <a class="nav-pages-link" href="/anyagok/biztonsagos_kommunikacio/vpn/">Vpn</a>
+              <a class="nav-pages-link" href="/anyagok/biztonsagos_kommunikacio/vpn/">VPN</a>
             
           
             
@@ -240,20 +224,14 @@
       
         <section class="nav-pages-section">
           
-            
-              <a class="nav-pages-link" href="/anyagok/forrasok/fogalmak/">Szószedet, fogalommagyarázat</a>
-            
-          
-            
-              <a class="nav-pages-link" href="/anyagok/forrasok/linkek/">Külső hivatkozások</a>
-            
-          
       </section>
   </details>
     
   
+  
+    <a class="rolunk-button" href="/rolunk">Rólunk</a>
+  
   </div>
-  <div id="nav-overlay"></div>
 </nav>
 
     </div>
@@ -293,10 +271,14 @@
 <li><a href="https://ssd.eff.org/module/how-avoid-phishing-attacks">https://ssd.eff.org/module/how-avoid-phishing-attacks</a></li>
 </ul>
 
+    <div id="report-error-container">
+      <p id="report-error">Ha hibát találtál az oldalon, írj egy levelet a digitalisbiztonsag@proton.me címre!</p>
+    </div>
   </article>
+  
   <aside>
-    <section id="toc">
-      <h4 id="toc-title">Tartalomjegyzék</h4>
+    <details open id="toc">
+      <summary id="toc-title">Tartalomjegyzék</summary>
       <nav id="TableOfContents">
   <ul>
     <li><a href="#mi-az-a-phishing">Mi az a phishing?</a></li>
@@ -304,12 +286,10 @@
     <li><a href="#hogyan-védekezz-a-phishing-ellen">Hogyan védekezz a phishing ellen?</a></li>
   </ul>
 </nav>
-    </section>
+    </details>
   </aside>
+  
 </main>
-<div id="report-error-container">
-  <p id="report-error">Ha hibát találtál az oldalon, írj egy levelet a digitalisbiztonsag@proton.me címre!</p>
-</div>
 
   </body>
 </html>
